@@ -4,3 +4,6 @@
 Silly mod that replaces the minecraft loading screen with valve intro.
 
 Used some code from [Animated Loading Screen](https://modrinth.com/mod/animated-loading-screen)
+
+# Disclaimer
+Valve employee badge and Valve intro with the music are all properties of Valve. I do not earn anything from this.
