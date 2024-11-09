@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "valve-intro",
+	"version": "${version}",
+	"name": "Valve Intro",
+	"description": "Mod that displays the valve intro instead of the normal loading screen",
+	"authors": [
+		"PouekDEV"
+	],
+	"license": "MIT",
+	"icon": "assets/valve-intro/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"one.pouekdev.Valveintro"
+		]
+	},
+	"mixins": [
+		"valve-intro.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

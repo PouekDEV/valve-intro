@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "one.pouekdev.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"IntroMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
